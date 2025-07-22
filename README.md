@@ -1,10 +1,10 @@
 # ⚖️ Bhasha Nyaya – AI-Powered Multilingual Legal Assistant
 
 **Bhasha Nyaya** is a web-based AI assistant that simplifies legal language, translates legal content into multiple Indian languages, and enables voice-based interaction — making legal help accessible to low-literacy and rural populations.  
-This project was developed by **Team InnoHack** as a submission for the **Bhasha Bandhu Hackathon 2024**, organized by **Microsoft**.
+This project was developed by **Team InnoHack** as a submission for the **Bhasha Bandhu Hackathon 2025**, organized by **Microsoft**.
 
 
-Built during the **Bhasha Bandhu Hackathon 2024** by **Team InnoHack**, the solution bridges the gap between citizens and the justice system through multilingual, real-time AI processing.
+Built during the **Bhasha Bandhu Hackathon 2025** by **Team InnoHack**, the solution bridges the gap between citizens and the justice system through multilingual, real-time AI processing.
 
 ---
 
