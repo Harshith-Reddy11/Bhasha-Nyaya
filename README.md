@@ -77,7 +77,7 @@ Bhasha Nyaya democratizes access to justice by making legal knowledge simplified
 - Implement contextual memory in chatbot for multi-turn conversations  
 - Deploy a mobile-first responsive version (PWA)  
 - Add form-filling assistance for legal documents  
-- Introduce live video interaction with legal advisors (via WebRTC)
+- Introduce live video interaction with legal advisors 
 
 ---
 
