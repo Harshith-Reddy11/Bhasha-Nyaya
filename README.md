@@ -84,7 +84,7 @@ Bhasha Nyaya democratizes access to justice by making legal knowledge simplified
 ## 🧑‍💻 Developed By
 
 **Team InnoHack**  
-Submitted for the **Bhasha Bandhu Hackathon 2024**  
+Submitted for the **Bhasha Bandhu Hackathon 2025**  
 Built to ensure justice is heard, seen, and understood by all.
 
 ---
